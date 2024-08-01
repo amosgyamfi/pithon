@@ -2,7 +2,7 @@
 Learn Python fundamental concepts
 ---
 
-## 1. Combine Dictionaries {**fruit_emojis1, **fruit_emojis2}
+### 1. Combine Dictionaries {**fruit_emojis1, **fruit_emojis2}
 
 ```python
 fruit_emojis1 = {    
