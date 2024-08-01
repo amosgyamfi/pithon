@@ -16,9 +16,6 @@ fruit_emojis2 = {
     "kiwi": "🥝"
 }
 
-# Combine the two dictionaries
 fruit_emojis = {**fruit_emojis1, **fruit_emojis2}
-print("")
 print(fruit_emojis)
-print("")
 ---
