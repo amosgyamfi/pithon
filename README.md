@@ -58,5 +58,16 @@ print(ascii_lowercase)
 print(ascii_uppercase)
 print("-----")
 ```
+---
+
+### Print All Numbers and Punctuations
+```python
+from string import digits, punctuation
+
+print("")
+print(digits)
+print(punctuation)
+print("")
+```
 
 
