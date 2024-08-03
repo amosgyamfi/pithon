@@ -60,7 +60,7 @@ print("-----")
 ```
 ---
 
-### Print All Numbers and Punctuations
+### 4. Print All Numbers and Punctuations
 ```python
 from string import digits, punctuation
 
