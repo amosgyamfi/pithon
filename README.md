@@ -22,7 +22,7 @@ print(fruit_emojis)
 ```
 ---
 
-### Pretty printing a dictionary
+### 2. Pretty printing a dictionary
 
 ```python
 from pprint import pprint
@@ -48,7 +48,7 @@ pprint(emoji)
 ```
 ---
 
-### Print All Alphabets
+### 3. Print All Alphabets
 ```python
 from string import ascii_letters, ascii_lowercase, ascii_uppercase
 
